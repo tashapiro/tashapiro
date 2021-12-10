@@ -17,7 +17,7 @@ Most of my work is dedicaed to fun challenges like [#TidyTuesday](TidyTuesday) a
 
 Let's Connect!
 ---
- [![alt text][1.1]][1]  &nbsp; [![alt text][2.1]][2] &nbsp; [![alt text][3.1]][3]
+ [![alt text][1.1]][1]  &nbsp; [![alt text][2.1]][2] &nbsp; [![alt text][3.1]][3]&nbsp; [![alt text][4.1]][3]
 
 
 
@@ -27,9 +27,11 @@ Let's Connect!
 [1.1]: https://www.iconsdb.com/icons/download/white/twitter-4-32.png
 [2.1]: https://www.iconsdb.com/icons/download/white/linkedin-4-32.png
 [3.1]: https://www.iconsdb.com/icons/download/white/github-9-32.png
+[4.1]: images/medium-icon.png
 
 
 <!-- links to social-->
 [1]: https://twitter.com/tanya_shapiro
 [2]: https://www.linkedin.com/in/shapirotanya/
 [3]: https://github.com/tanyashapiro
+[4]: https://medium.com/@tanyashapiro_72192/scraping-excel-data-with-python-41725308d9b0#1e67-86e0cc6b85e5
