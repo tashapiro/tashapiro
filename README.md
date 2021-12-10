@@ -17,7 +17,7 @@ Most of my work is dedicaed to fun challenges like [#TidyTuesday](TidyTuesday) a
 
 Let's Connect!
 ---
- [![alt text][1.1]][1]  &nbsp; [![alt text][2.1]][2] &nbsp; [![alt text][3.1]][3]&nbsp; [![alt text][4.1]][3]
+ [![alt text][1.1]][1]  &nbsp; [![alt text][2.1]][2] &nbsp; [![alt text][3.1]][3]&nbsp; [![alt text][4.1]][4]
 
 
 
