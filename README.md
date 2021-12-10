@@ -34,4 +34,4 @@ Let's Connect!
 [1]: https://twitter.com/tanya_shapiro
 [2]: https://www.linkedin.com/in/shapirotanya/
 [3]: https://github.com/tanyashapiro
-[4]: https://medium.com/@tanyashapiro_72192/scraping-excel-data-with-python-41725308d9b0#1e67-86e0cc6b85e5
+[4]: https://medium.com/@tanyashapiro_72192
