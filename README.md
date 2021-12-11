@@ -24,9 +24,10 @@ Let's Connect!
 
 <!-- social icons-->
 
-[1.1]: https://www.iconsdb.com/icons/download/white/twitter-4-32.png
-[2.1]: https://www.iconsdb.com/icons/download/white/linkedin-4-32.png
-[3.1]: https://www.iconsdb.com/icons/download/white/github-9-32.png
+
+[1.1]: https://www.iconsdb.com/icons/download/tropical-blue/twitter-4-32.png
+[2.1]: https://www.iconsdb.com/icons/download/tropical-blue/linkedin-4-32.png
+[3.1]: https://www.iconsdb.com/icons/download/tropical-blue/github-9-32.png
 [4.1]: images/white-medium-icon.png
 
 
