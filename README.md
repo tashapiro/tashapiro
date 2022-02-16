@@ -15,6 +15,12 @@ Most of my work is dedicaed to fun challenges like [#TidyTuesday](TidyTuesday) a
 - :earth_africa: **Fun** fact: I've lived in 4 different countries (US | CH | DE | SC)
 - :biking_woman: **Hobbies**: Fitness & Guitar (I love my Peloton)
 
+
+Some of my Data Science projects include:
+- [Predicting Housing Prices](predicting-housing-prices)
+- [Classifying Rotten Tomato Reviews (NLP)](nlp-rotten-tomatoes)
+- [AskWomen vs. AskMen](subreddit-askwomen-askmen)
+
 Let's Connect!
 ---
  [![alt text][1.1]][1]  &nbsp; [![alt text][2.1]][2] &nbsp; [![alt text][3.1]][3]&nbsp; [![alt text][4.1]][4]
