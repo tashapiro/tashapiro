@@ -20,6 +20,7 @@ Some of my Data Science projects include:
 - [Predicting Housing Prices](predicting-housing-prices)
 - [Classifying Rotten Tomato Reviews (NLP)](nlp-rotten-tomatoes)
 - [AskWomen vs. AskMen](subreddit-askwomen-askmen)
+- [Music vs. Lyrics: Song Genre Classification](predicting-song-music-genre)
 
 Let's Connect!
 ---
