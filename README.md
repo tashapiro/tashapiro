@@ -19,10 +19,10 @@ Data Science Projects
 --- 
 
 <p align="center">
-  <a href="https://github.com/tashapiro/predicting-song-music-genre"> <img src="/images/ds-projects/music-or-lyrics.png" width="23%" /> </a>
-  <a href = "https://github.com/tashapiro/predicting-housing-prices"> <img src="/images/ds-projects/ames-housing.jpg" width="23%" />  </a>
-  <a href = "https://github.com/tashapiro/subreddit-askwomen-askmen"><img src="/images/ds-projects/dear-subreddit.jpg" width="23%" /> </a>
-  <a href = "https://github.com/tashapiro/nlp-rotten-tomatoes"><img src="/images/ds-projects/rotten-tomatoes.jpg" width="23%" /></a>
+  <a href="https://github.com/tashapiro/predicting-song-music-genre"> <img src="/images/ds-projects/music-or-lyrics.png" width="47%" /> </a>
+  <a href = "https://github.com/tashapiro/predicting-housing-prices"> <img src="/images/ds-projects/ames-housing.jpg" width="47%" />  </a>
+  <a href = "https://github.com/tashapiro/subreddit-askwomen-askmen"><img src="/images/ds-projects/dear-subreddit.jpg" width="47%" /> </a>
+  <a href = "https://github.com/tashapiro/nlp-rotten-tomatoes"><img src="/images/ds-projects/rotten-tomatoes.jpg" width="47%" /></a>
 </p>
 
 
