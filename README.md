@@ -15,7 +15,8 @@ Most of my work is dedicaed to fun challenges like [#TidyTuesday](https://github
 - :earth_africa: **Fun** fact: I've lived in 4 different countries (US | CH | DE | SC)
 - :biking_woman: **Hobbies**: Fitness & Guitar (I love my [Peloton](https://github.com/tashapiro/peloton-stats))
 
-### Data Science Projects
+Data Science Projects
+--- 
 
 <p align="center">
   <a href="https://github.com/tashapiro/predicting-song-music-genre"> <img src="/images/ds-projects/music-or-lyrics.png" width="23%" /> </a>
@@ -25,7 +26,21 @@ Most of my work is dedicaed to fun challenges like [#TidyTuesday](https://github
 </p>
 
 
-### Data Visualization Samples
+Data Apps
+---
+
+<p align= "center">
+  <a href="https://tshapiro.shinyapps.io/music-genre-classification/"> 
+    <img src="https://github.com/tashapiro/tashapiro/blob/main/images/apps/music-shiny-app.png" width="47%" /> 
+  </a>
+    <a href="https://share.streamlit.io/tashapiro/subreddit-askwomen-askmen/main/code/askmen-askwomen-app.py"> 
+    <img src="https://github.com/tashapiro/tashapiro/blob/main/images/apps/subreddit-streamlit-app.jpeg" width="47%" /> 
+  </a>
+</p>
+
+
+Data Viz Samples
+---
 <p align= "center">
   
   <a href="https://github.com/tashapiro/TidyTuesday/blob/master/2021/W48/doctor_who.R"> 
@@ -53,6 +68,10 @@ Most of my work is dedicaed to fun challenges like [#TidyTuesday](https://github
     <img src="https://github.com/tashapiro/30DayMapChallenge/blob/main/urban-nyc/nyc_urban.jpeg" width="29.5%" /> 
   </a>
  </p>
+ 
+ 
+
+ 
  
  Let's Connect!
 ---
