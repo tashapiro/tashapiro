@@ -35,7 +35,7 @@ Let's Connect!
 [1.1]: https://www.iconsdb.com/icons/download/barbie-pink/twitter-4-32.png
 [2.1]: https://www.iconsdb.com/icons/download/barbie-pink/linkedin-4-32.png
 [3.1]: https://www.iconsdb.com/icons/download/barbie-pink/github-9-32.png
-[4.1]: images/medium-pink.png
+[4.1]: images/social-icons/medium-pink.png
 
 
 <!-- links to social-->
