@@ -58,15 +58,15 @@ Data Viz Gallery
    
   </a>
    <a href="https://github.com/tashapiro/superhero-comics/blob/main/code/superhero-radar-plots.R"> 
-    <img src="https://github.com/tashapiro/superhero-comics/blob/main/plots/avengers.jpeg" width="33%" /> 
+    <img src="https://github.com/tashapiro/superhero-comics/blob/main/plots/avengers.jpeg" width="31%" /> 
   </a>
    </a>
    <a href="https://github.com/tashapiro/superhero-comics/blob/main/code/superhero-radar-plots.R"> 
-    <img src="https://github.com/tashapiro/superhero-comics/blob/main/plots/justice_league.jpeg" width="33%" /> 
+    <img src="https://github.com/tashapiro/superhero-comics/blob/main/plots/justice_league.jpeg" width="31%" /> 
   </a>
      </a>
    <a href="https://github.com/tashapiro/superhero-comics/blob/main/code/superhero-radar-plots.R"> 
-    <img src="https://github.com/tashapiro/superhero-comics/blob/main/plots/guardians.jpeg" width="33%" /> 
+    <img src="https://github.com/tashapiro/superhero-comics/blob/main/plots/guardians.jpeg" width="31%" /> 
   </a>
  </p>
  
