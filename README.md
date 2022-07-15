@@ -6,7 +6,7 @@ Hi there 👋
 
 I'm an all around data geek with a passion for Data Visualization :bar_chart: and solving puzzles :female_detective:.
 
-I'm also an aspiring Data Scientist: recently, I made the decision to leave my former position as a Data Product Manager to pursue an education in Data Science. I'm currently enrolled in a fulltime immersive program with General Assembly and loving it!
+I'm also an aspiring Data Scientist: recently, I made the decision to leave my former position as a Data Product Manager to pursue an education in Data Science. I recently graduated from a fulltime immersive program with General Assembly, and loved it!
 
 Most of my work is dedicaed to fun challenges like [#TidyTuesday](https://github.com/tashapiro/TidyTuesday) and [#30DayMapChallenge](https://github.com/tashapiro/30DayMapChallenge). I look forward to contributing more as I dig deeper into the exciting world of Data Science. 
 
