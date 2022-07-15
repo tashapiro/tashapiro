@@ -19,23 +19,12 @@ Data Science Projects
 --- 
 
 <p align="center">
+ <a href="https://github.com/tashapiro/drag-race"> <img src="/images/ds-projects/drag-queens.png" width="47%" /> </a>
+  <a href="https://github.com/tashapiro/peloton-stats"> <img src="/images/ds-projects/peloton-analysis.png" width="47%" /> </a>
   <a href="https://github.com/tashapiro/predicting-song-music-genre"> <img src="/images/ds-projects/music-or-lyrics.png" width="47%" /> </a>
   <a href = "https://github.com/tashapiro/predicting-housing-prices"> <img src="/images/ds-projects/ames-housing.jpg" width="47%" />  </a>
   <a href = "https://github.com/tashapiro/subreddit-askwomen-askmen"><img src="/images/ds-projects/dear-subreddit.jpg" width="47%" /> </a>
   <a href = "https://github.com/tashapiro/nlp-rotten-tomatoes"><img src="/images/ds-projects/rotten-tomatoes.jpg" width="47%" /></a>
-</p>
-
-
-Data Apps
----
-
-<p align= "center">
-  <a href="https://tshapiro.shinyapps.io/music-genre-classification/"> 
-    <img src="https://github.com/tashapiro/tashapiro/blob/main/images/apps/music-shiny-app.png" width="47%" /> 
-  </a>
-    <a href="https://share.streamlit.io/tashapiro/subreddit-askwomen-askmen/main/code/askmen-askwomen-app.py"> 
-    <img src="https://github.com/tashapiro/tashapiro/blob/main/images/apps/subreddit-streamlit-app.jpeg" width="47%" /> 
-  </a>
 </p>
 
 
