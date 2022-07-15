@@ -28,7 +28,7 @@ Data Science Projects
 </p>
 
 
-Data Viz Samples
+Data Viz Gallery
 ---
 <p align= "center">
   
@@ -55,6 +55,18 @@ Data Viz Samples
 
   <a href="https://github.com/tashapiro/30DayMapChallenge/blob/main/urban-nyc/nyc_urban.R"> 
     <img src="https://github.com/tashapiro/30DayMapChallenge/blob/main/urban-nyc/nyc_urban.jpeg" width="29.5%" /> 
+   
+  </a>
+   <a href="https://github.com/tashapiro/superhero-comics/blob/main/code/superhero-radar-plots.R"> 
+    <img src="https://github.com/tashapiro/superhero-comics/blob/main/plots/avengers.jpeg" width="33%" /> 
+  </a>
+   </a>
+   <a href="https://github.com/tashapiro/superhero-comics/blob/main/code/superhero-radar-plots.R"> 
+    <img src="https://github.com/tashapiro/superhero-comics/blob/main/plots/justice_league.jpeg" width="33%" /> 
+  </a>
+     </a>
+   <a href="https://github.com/tashapiro/superhero-comics/blob/main/code/superhero-radar-plots.R"> 
+    <img src="https://github.com/tashapiro/superhero-comics/blob/main/plots/guardians.jpeg" width="33%" /> 
   </a>
  </p>
  
