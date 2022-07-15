@@ -33,28 +33,28 @@ Data Viz Gallery
 <p align= "center">
   
   <a href="https://github.com/tashapiro/TidyTuesday/blob/master/2021/W48/doctor_who.R"> 
-    <img src="https://github.com/tashapiro/TidyTuesday/blob/master/2021/W48/doctor_who_chart.png" width="34%" /> 
+    <img src="https://github.com/tashapiro/TidyTuesday/blob/master/2021/W48/doctor_who_chart.png" width="31%" /> 
   </a>
   
-  <a href="https://github.com/tashapiro/30DayMapChallenge/blob/main/staten_island/staten_island_pizza.R"> 
-    <img src="https://github.com/tashapiro/30DayMapChallenge/blob/main/staten_island/staten_island.png" width="25.2%" /> 
+  <a href="https://github.com/tashapiro/TidyTuesday/blob/master/2022/W1/instructor-summary.R"> 
+    <img src="https://github.com/tashapiro/peloton-stats/blob/main/images/peloton-gt.jpeg" width="31%" /> 
   </a>
   
   <a href="https://github.com/tashapiro/TidyTuesday/blob/master/2021/W50/spiders.R"> 
-    <img src="https://github.com/tashapiro/TidyTuesday/blob/master/2021/W50/spider_taxonomy.png" width="34%" /> 
+    <img src="https://github.com/tashapiro/TidyTuesday/blob/master/2021/W50/spider_taxonomy.png" width="31%" /> 
   </a>
   
   <a href="https://github.com/tashapiro/peloton-stats/blob/main/code/peloton-active-days-calendar.R"> 
-    <img src="https://github.com/tashapiro/peloton-stats/blob/main/images/peloton_calendar.png" width="28%" /> 
+    <img src="https://github.com/tashapiro/peloton-stats/blob/main/images/peloton_calendar.png" width="31%" /> 
   </a>
   
   
-   <a href="https://github.com/tashapiro/TidyTuesday/blob/master/2022/W1/instructor-summary.R"> 
-    <img src="https://github.com/tashapiro/peloton-stats/blob/main/images/peloton-gt.jpeg" width="35.5%" /> 
+   <a href="https://github.com/tashapiro/30DayMapChallenge/blob/main/staten_island/staten_island_pizza.R"> 
+    <img src="https://github.com/tashapiro/30DayMapChallenge/blob/main/staten_island/staten_island.png" width="31%" /> 
   </a>
 
   <a href="https://github.com/tashapiro/30DayMapChallenge/blob/main/urban-nyc/nyc_urban.R"> 
-    <img src="https://github.com/tashapiro/30DayMapChallenge/blob/main/urban-nyc/nyc_urban.jpeg" width="29.5%" /> 
+    <img src="https://github.com/tashapiro/30DayMapChallenge/blob/main/urban-nyc/nyc_urban.jpeg" width="31%" /> 
    
   </a>
    <a href="https://github.com/tashapiro/superhero-comics/blob/main/code/superhero-radar-plots.R"> 
