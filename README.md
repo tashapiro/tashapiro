@@ -12,7 +12,7 @@ Most of my work is dedicaed to fun challenges like [#TidyTuesday](https://github
 
 - :rainbow: **Pronouns**: She/Her/Hers 
 - :computer: **Coding**: R, Python, SQL
-- :earth_africa: **Fun** fact: I've lived in 4 different countries (US | CH | DE | SC)
+- :earth_africa: **Fun Fact**: I've lived in 4 different countries (US | CH | DE | SC)
 - :biking_woman: **Hobbies**: Fitness & Guitar (I love my [Peloton](https://github.com/tashapiro/peloton-stats))
 
 Data Science Projects
