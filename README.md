@@ -11,7 +11,7 @@ I'm also an aspiring Data Scientist: recently, I made the decision to leave my f
 Most of my work is dedicaed to fun challenges like [#TidyTuesday](https://github.com/tashapiro/TidyTuesday) and [#30DayMapChallenge](https://github.com/tashapiro/30DayMapChallenge). I look forward to contributing more as I dig deeper into the exciting world of Data Science. 
 
 - :rainbow: **Pronouns**: She/Her/Hers 
-- :computer: **Coding**: R, Python, SQL
+- :computer: **Coding**: R, Python, SQL, Shiny, Looker
 - :earth_africa: **Fun Fact**: I've lived in 4 different countries (US | CH | DE | SC)
 - :biking_woman: **Hobbies**: Fitness & Guitar (I love my [Peloton](https://github.com/tashapiro/peloton-stats))
 
