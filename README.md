@@ -1,5 +1,5 @@
 
-![](Tanya.png)
+![](tanya-banner.png)
 
 Hi there 👋 
 ---
