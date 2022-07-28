@@ -1,5 +1,5 @@
 
-![](images/banner.png)
+![](images/banner-ts.png)
 
 Hi there 👋 
 ---
