@@ -1,5 +1,5 @@
 
-![](images/banner-ts.png)
+![](images/banner-shapiro.png)
 
 Hi there 👋 
 ---
