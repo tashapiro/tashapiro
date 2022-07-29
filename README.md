@@ -1,5 +1,5 @@
 
-![](images/banner-tanya.png)
+![](images/banner-tanya-shapiro.png)
 
 Hi there 👋 
 ---
