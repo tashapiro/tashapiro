@@ -45,7 +45,7 @@ Data Viz Gallery
   </a>
   
   <a href="https://github.com/tashapiro/peloton-stats/blob/main/code/peloton-active-days-calendar.R"> 
-    <img src="https://github.com/tashapiro/peloton-stats/blob/main/images/peloton_calendar.png" width="31%" /> 
+    <img src="https://github.com/tashapiro/peloton-stats/blob/main/images/peloton-active-days.png" width="31%" /> 
   </a>
   
   
