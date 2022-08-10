@@ -53,8 +53,8 @@ Data Viz Gallery
     <img src="https://github.com/tashapiro/30DayMapChallenge/blob/main/staten_island/staten_island.png" width="31%" /> 
   </a>
 
-  <a href="https://github.com/tashapiro/30DayMapChallenge/blob/main/urban-nyc/nyc_urban.R"> 
-    <img src="https://github.com/tashapiro/30DayMapChallenge/blob/main/urban-nyc/nyc_urban.jpeg" width="31%" /> 
+  <a href="https://github.com/tashapiro/drag-race"> 
+    <img src="https://github.com/tashapiro/drag-race/blob/main/images/plots/song-herstory.png" width="31%" /> 
    
   </a>
    <a href="https://github.com/tashapiro/superhero-comics/blob/main/code/superhero-radar-plots.R"> 
