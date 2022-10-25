@@ -6,7 +6,7 @@ Hi there 👋
 
 I’m part data geek, part business detective :female_detective:
 
-I help businesses make better decisions with their data. I've worked with different facets of data (analytics, engineering, data architecture), and my specialty is in **data visualization** and **BI development**. Currently available for freelance data & analytics consulting.
+and I'm a open for freelance data & analytics work!
 
 In the past, I've also enjoyed putting together coding workshops to teach others about data visualization in R and Python.
 
