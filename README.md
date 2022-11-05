@@ -4,16 +4,16 @@
 Hi there 👋 
 ---
 
-I’m part data geek, part business detective :female_detective:
-
-and I'm a open for freelance data & analytics work!
-
-In the past, I've also enjoyed putting together coding workshops to teach others about data visualization in R and Python.
+I’m part data geek, part business detective :female_detective:. I'm also a freelance data professional.
 
 - :rainbow: **Pronouns**: She/Her/Hers 
 - :computer: **Coding**: R, Python, SQL, Shiny, Looker
-- :earth_africa: **Fun Fact**: I've lived in 4 different countries (US | CH | DE | SC)
+- 👩‍🏫 **Sharer of Code**: I share most of my personal projects here. Sometimes I even teach workshops! 
 - :biking_woman: **Hobbies**: Fitness & Guitar (I love my [Peloton](https://github.com/tashapiro/peloton-stats))
+
+
+
+[**Buy Me a Coffee ☕**](https://www.buymeacoffee.com/tanyashapiro) - if you love my work and want to share the love, I love coffee! 
 
 Data Science Projects
 --- 
