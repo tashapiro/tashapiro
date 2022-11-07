@@ -49,8 +49,8 @@ Data Viz Gallery
   </a>
   
   
-   <a href="https://github.com/tashapiro/30DayMapChallenge/blob/main/staten_island/staten_island_pizza.R"> 
-    <img src="https://github.com/tashapiro/30DayMapChallenge/blob/main/staten_island/staten-island-pizzeria.png" width="31%" /> 
+   <a href="https://github.com/tashapiro/30DayMapChallenge/blob/main/2021/staten_island/staten_island_pizza.R"> 
+    <img src="https://github.com/tashapiro/30DayMapChallenge/blob/main/2021/staten_island/staten-island-pizzeria.png" width="31%" /> 
   </a>
 
   <a href="https://github.com/tashapiro/drag-race"> 
