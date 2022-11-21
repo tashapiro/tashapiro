@@ -4,7 +4,7 @@
 Hi there 👋 
 ---
 
-I’m part data geek, part business detective :female_detective:. I'm also a freelance data professional.
+I'm Tanya, a freelance data consultant, specializing in data viz design. 
 
 - :rainbow: **Pronouns**: She/Her/Hers 
 - :computer: **Coding**: R, Python, SQL, Shiny, Looker
