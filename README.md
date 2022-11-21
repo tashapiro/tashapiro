@@ -15,6 +15,36 @@ I’m part data geek, part business detective :female_detective:. I'm also a fre
 
 [**Buy Me a Coffee ☕**](https://www.buymeacoffee.com/tanyashapiro) - if you love my work and want to share the love, I love coffee! 
 
+Gallery
+---
+<p align= "center">
+  <a href="https://github.com/tashapiro/predicting-song-music-genre/blob/main/code/lyrical-verbosity.R"> 
+  <img src="https://github.com/tashapiro/predicting-song-music-genre/blob/main/plots/lyrical-verbosity.png" width="31%" /> 
+        </a>
+     <a href="https://github.com/tashapiro/TidyTuesday/blob/master/2022/W10/erasmus-mobility.R"> 
+  <img src="https://github.com/tashapiro/TidyTuesday/blob/master/2022/W10/erasmus.jpeg" width="31%" /> 
+        </a>
+     <a href="https://github.com/tashapiro/horror-movies"> 
+  <img src="https://github.com/tashapiro/horror-movies/blob/main/plots/bar-plot.png" width="31%" /> 
+    <a href="https://github.com/tashapiro/tanya-data-viz/blob/main/code/fifa-world-cup/fifa-world-cup.R"> 
+    <img style="border:1px solid black" src="https://github.com/tashapiro/tanya-data-viz/blob/main/fifa-world-cup/fifa.png" width="31%" /> 
+  </a>
+   <a href="https://github.com/tashapiro/peloton-stats/blob/main/code/peloton-active-days-calendar.R"> 
+    <img src="https://github.com/tashapiro/30DayMapChallenge/blob/main/2022/D1-Points-TSwift/map-taylor-swift.jpeg" width="31%" /> 
+  </a>
+  <a href="https://github.com/tashapiro/peloton-stats/blob/main/code/peloton-active-days-calendar.R"> 
+    <img src="https://github.com/tashapiro/peloton-stats/blob/main/images/peloton-active-days.png" width="31%" /> 
+  </a>
+   <a href="https://github.com/tashapiro/30DayMapChallenge/blob/main/2021/staten_island/staten_island_pizza.R"> 
+    <img src="https://github.com/tashapiro/30DayMapChallenge/blob/main/2021/staten_island/staten-island-pizzeria.png" width="31%" /> 
+  </a>
+  <a href="https://github.com/tashapiro/TidyTuesday/blob/master/2022/W40/iphone-apps.R"> 
+  <img src="https://github.com/tashapiro/TidyTuesday/blob/master/2022/W40/iphone-plot.png" width="31%" /> 
+     <a href="https://github.com/tashapiro/drag-race"> 
+    <img src="https://github.com/tashapiro/drag-race/blob/main/images/plots/song-herstory.png" width="31%" /> 
+    </a>
+  
+
 Data Science Projects
 --- 
 
@@ -28,49 +58,6 @@ Data Science Projects
 </p>
 
 
-Data Viz Gallery
----
-<p align= "center">
-  
-  <a href="https://github.com/tashapiro/TidyTuesday/blob/master/2021/W48/doctor_who.R"> 
-    <img src="https://github.com/tashapiro/TidyTuesday/blob/master/2021/W48/doctor_who_chart.png" width="31%" /> 
-  </a>
-  
-  <a href="https://github.com/tashapiro/TidyTuesday/blob/master/2022/W1/instructor-summary.R"> 
-    <img src="https://github.com/tashapiro/peloton-stats/blob/main/images/peloton-gt.jpeg" width="31%" /> 
-  </a>
-  
-  <a href="https://github.com/tashapiro/TidyTuesday/blob/master/2021/W50/spiders.R"> 
-    <img src="https://github.com/tashapiro/TidyTuesday/blob/master/2021/W50/spider_taxonomy.png" width="31%" /> 
-  </a>
-  
-  <a href="https://github.com/tashapiro/peloton-stats/blob/main/code/peloton-active-days-calendar.R"> 
-    <img src="https://github.com/tashapiro/peloton-stats/blob/main/images/peloton-active-days.png" width="31%" /> 
-  </a>
-  
-  
-   <a href="https://github.com/tashapiro/30DayMapChallenge/blob/main/2021/staten_island/staten_island_pizza.R"> 
-    <img src="https://github.com/tashapiro/30DayMapChallenge/blob/main/2021/staten_island/staten-island-pizzeria.png" width="31%" /> 
-  </a>
-
-  <a href="https://github.com/tashapiro/drag-race"> 
-    <img src="https://github.com/tashapiro/drag-race/blob/main/images/plots/song-herstory.png" width="31%" /> 
-   
-  </a>
-   <a href="https://github.com/tashapiro/superhero-comics/blob/main/code/superhero-radar-plots.R"> 
-    <img src="https://github.com/tashapiro/superhero-comics/blob/main/plots/avengers.jpeg" width="31%" /> 
-  </a>
-   </a>
-   <a href="https://github.com/tashapiro/superhero-comics/blob/main/code/superhero-radar-plots.R"> 
-    <img src="https://github.com/tashapiro/superhero-comics/blob/main/plots/justice_league.jpeg" width="31%" /> 
-  </a>
-     </a>
-   <a href="https://github.com/tashapiro/superhero-comics/blob/main/code/superhero-radar-plots.R"> 
-    <img src="https://github.com/tashapiro/superhero-comics/blob/main/plots/guardians.jpeg" width="31%" /> 
-  </a>
- </p>
- 
- 
 
  
  
