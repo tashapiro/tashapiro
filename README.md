@@ -26,7 +26,7 @@ Gallery
         </a>
      <a href="https://github.com/tashapiro/horror-movies"> 
   <img src="https://github.com/tashapiro/horror-movies/blob/main/plots/bar-plot.png" width="31%" /> 
-    <a href="https://github.com/tashapiro/tanya-data-viz/blob/main/code/fifa-world-cup/fifa-world-cup.R"> 
+    <a href="https://github.com/tashapiro/tanya-data-viz/blob/main/fifa-world-cup/fifa-world-cup.R"> 
     <img style="border:1px solid black" src="https://github.com/tashapiro/tanya-data-viz/blob/main/fifa-world-cup/fifa.png" width="31%" /> 
   </a>
    <a href="https://github.com/tashapiro/peloton-stats/blob/main/code/peloton-active-days-calendar.R"> 
