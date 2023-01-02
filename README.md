@@ -19,7 +19,7 @@ Gallery
 ---
 <p align= "center">
   <a href="https://github.com/tashapiro/predicting-song-music-genre/blob/main/code/lyrical-verbosity.R"> 
-  <img src="https://github.com/tashapiro/predicting-song-music-genre/blob/main/plots/lyrical-verbosity.png" width="31%" /> 
+  <img src="https://github.com/tashapiro/predicting-song-music-genre/blob/main/plots/verbosity.png" width="31%" /> 
         </a>
      <a href="https://github.com/tashapiro/TidyTuesday/blob/master/2022/W10/erasmus-mobility.R"> 
   <img src="https://github.com/tashapiro/TidyTuesday/blob/master/2022/W10/erasmus.jpeg" width="31%" /> 
