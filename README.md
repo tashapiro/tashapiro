@@ -41,7 +41,7 @@ Gallery
   <a href="https://github.com/tashapiro/TidyTuesday/blob/master/2022/W40/iphone-apps.R"> 
   <img src="https://github.com/tashapiro/TidyTuesday/blob/master/2022/W40/iphone-plot.png" width="31%" /> 
      <a href="https://github.com/tashapiro/drag-race"> 
-    <img src="https://github.com/tashapiro/drag-race/blob/main/images/plots/song-herstory.png" width="31%" /> 
+    <img src="https://github.com/tashapiro/drag-race/blob/main/images/plots/lip-sync-herstory.png" width="31%" /> 
     </a>
   
 
