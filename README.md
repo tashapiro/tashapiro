@@ -1,5 +1,25 @@
 
-![](images/banner-tanya-shapiro.png)
+
+<div id="badges">
+   <a href="https://www.tanyaviz.com" target="_blank">
+    <img src="https://img.shields.io/badge/tanyaviz.com-black?style=for-the-badge&logo=internet&logoColor=white" alt="Site Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shapirotanya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/tanya_shapiro" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://fosstodon.org/@tanya_shapiro" target="_blank">
+    <img src="https://img.shields.io/badge/Mastodon-black?style=for-the-badge&logo=mastodon&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://github.com/tashapiro" target="_blank">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="mailto: shapiro.tan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
 
 Hi there 👋 
 ---
@@ -11,9 +31,12 @@ I'm Tanya, a freelance data consultant, specializing in data viz design.
 - 👩‍🏫 **Sharer of Code**: I share most of my personal projects here. Sometimes I even teach workshops! 
 - :biking_woman: **Hobbies**: Fitness & Guitar (I love my [Peloton](https://github.com/tashapiro/peloton-stats))
 
+<br>
+<a href="https://www.buymeacoffee.com/tanyashapiro" target="_blank">
+<img src="https://uc80e5ba3058c2d15b2a77972a8b.previews.dropboxusercontent.com/p/thumb/AB5QmT929AXlHCBcWxp1bXBpTBJXT9uEuBiF4FJvHf3PRrCMu5DS33QqLOeBWIa7ggrau55DV-hDQchGsl2cocgwXqDL9vgjk_1I3U2OolHWDGtQ5HZMK0F7obuEGg0UqEtvzXe5P5heQC-OpA3bUvTXCRy4bABqqvlDQaOhd05ux1BXAA8_4aoDy0Ky_JtxYHl9csg7DWde_OvaVaYmHO0Hxub3nl2MuQF3Cm9mFIJnEOa04BXKPe2Qz5wtFIzUafRfSksFJvATFN_t6DVtyrUW7rgdQj5lfqVqlV2oCu3hYZltaKn3DRUwRu0LTIM5G6Dnae91Mrli5JteabguGhA2wJOwORCKMeMPUnjDR_uU9KZ5-tx3pkqHOp0HgdljznY/p.png" width="15%" style="margin-top:5">
+</a>
 
 
-[**Buy Me a Coffee ☕**](https://www.buymeacoffee.com/tanyashapiro) - if you love my work and want to share the love, I love coffee! 
 
 Gallery
 ---
@@ -39,10 +62,11 @@ Gallery
     <img src="https://github.com/tashapiro/30DayMapChallenge/blob/main/2021/staten_island/staten-island-pizzeria.png" width="31%" /> 
   </a>
   <a href="https://github.com/tashapiro/TidyTuesday/blob/master/2022/W40/iphone-apps.R"> 
-  <img src="https://github.com/tashapiro/TidyTuesday/blob/master/2022/W40/iphone-plot.png" width="31%" /> 
-     <a href="https://github.com/tashapiro/drag-race"> 
+    <img src="https://github.com/tashapiro/TidyTuesday/blob/master/2022/W40/iphone-plot.png" width="31%" /> 
+  <a href="https://github.com/tashapiro/drag-race"> 
     <img src="https://github.com/tashapiro/drag-race/blob/main/images/plots/lip-sync-herstory.png" width="31%" /> 
-    </a>
+   </a>
+  
   
 
 Data Science Projects
@@ -57,27 +81,3 @@ Data Science Projects
   <a href = "https://github.com/tashapiro/nlp-rotten-tomatoes"><img src="/images/ds-projects/rotten-tomatoes.jpg" width="47%" /></a>
 </p>
 
-
-
- 
- 
- Let's Connect!
----
- [![alt text][1.1]][1]  &nbsp; [![alt text][2.1]][2] &nbsp; [![alt text][3.1]][3]&nbsp; [![alt text][4.1]][4]
- 
-
-
-<!-- social icons-->
-
-
-[1.1]: https://www.iconsdb.com/icons/download/barbie-pink/twitter-4-32.png
-[2.1]: https://www.iconsdb.com/icons/download/barbie-pink/linkedin-4-32.png
-[3.1]: https://www.iconsdb.com/icons/download/barbie-pink/github-9-32.png
-[4.1]: images/social-icons/medium-pink.png
-
-
-<!-- links to social-->
-[1]: https://twitter.com/tanya_shapiro
-[2]: https://www.linkedin.com/in/shapirotanya/
-[3]: https://github.com/tanyashapiro
-[4]: https://medium.com/@tanyashapiro_72192
