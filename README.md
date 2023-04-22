@@ -31,9 +31,11 @@ I'm Tanya, a freelance data consultant, specializing in data viz design.
 - 👩‍🏫 **Sharer of Code**: I share most of my personal projects here. Sometimes I even teach workshops! 
 - :biking_woman: **Hobbies**: Fitness & Guitar (I love my [Peloton](https://github.com/tashapiro/peloton-stats))
 
-<br>
+If you're interested in hiring me or collaborating with me on a project, please [email me](mailto:shapiro.tan@gmail.com). And if you love my work and want to support me, I love coffee!
+
+
 <a href="https://www.buymeacoffee.com/tanyashapiro" target="_blank">
-<img src="https://uc80e5ba3058c2d15b2a77972a8b.previews.dropboxusercontent.com/p/thumb/AB5QmT929AXlHCBcWxp1bXBpTBJXT9uEuBiF4FJvHf3PRrCMu5DS33QqLOeBWIa7ggrau55DV-hDQchGsl2cocgwXqDL9vgjk_1I3U2OolHWDGtQ5HZMK0F7obuEGg0UqEtvzXe5P5heQC-OpA3bUvTXCRy4bABqqvlDQaOhd05ux1BXAA8_4aoDy0Ky_JtxYHl9csg7DWde_OvaVaYmHO0Hxub3nl2MuQF3Cm9mFIJnEOa04BXKPe2Qz5wtFIzUafRfSksFJvATFN_t6DVtyrUW7rgdQj5lfqVqlV2oCu3hYZltaKn3DRUwRu0LTIM5G6Dnae91Mrli5JteabguGhA2wJOwORCKMeMPUnjDR_uU9KZ5-tx3pkqHOp0HgdljznY/p.png" width="15%" style="margin-top:5">
+<img src="https://uc80e5ba3058c2d15b2a77972a8b.previews.dropboxusercontent.com/p/thumb/AB5QmT929AXlHCBcWxp1bXBpTBJXT9uEuBiF4FJvHf3PRrCMu5DS33QqLOeBWIa7ggrau55DV-hDQchGsl2cocgwXqDL9vgjk_1I3U2OolHWDGtQ5HZMK0F7obuEGg0UqEtvzXe5P5heQC-OpA3bUvTXCRy4bABqqvlDQaOhd05ux1BXAA8_4aoDy0Ky_JtxYHl9csg7DWde_OvaVaYmHO0Hxub3nl2MuQF3Cm9mFIJnEOa04BXKPe2Qz5wtFIzUafRfSksFJvATFN_t6DVtyrUW7rgdQj5lfqVqlV2oCu3hYZltaKn3DRUwRu0LTIM5G6Dnae91Mrli5JteabguGhA2wJOwORCKMeMPUnjDR_uU9KZ5-tx3pkqHOp0HgdljznY/p.png" width="150" style="margin-top:5">
 </a>
 
 
