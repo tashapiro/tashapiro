@@ -27,7 +27,7 @@ Hi there 👋
 I'm Tanya, a freelance data consultant, specializing in data viz design. 
 
 - :rainbow: **Pronouns**: She/Her/Hers 
-- :computer: **Coding**: R, Python, SQL, Shiny, Looker
+- :computer: **Coding**: R, Python, SQL, Shiny, Javascript, Vue, Astro
 - 👩‍🏫 **Sharer of Code**: I share most of my personal projects here. Sometimes I even teach workshops! 
 - :biking_woman: **Hobbies**: Fitness & Guitar (I love my [Peloton](https://github.com/tashapiro/peloton-stats))
 
