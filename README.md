@@ -2,7 +2,7 @@
 
 <div id="badges">
    <a href="https://www.indievisual.tech" target="_blank">
-    <img src="https://img.shields.io/badge/tanyaviz.com-black?style=for-the-badge&logo=internet&logoColor=white" alt="Site Badge"/>
+    <img src="https://img.shields.io/badge/indievisual.tech-black?style=for-the-badge&logo=internet&logoColor=white" alt="Site Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/shapirotanya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
